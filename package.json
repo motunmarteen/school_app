@@ -1,0 +1,21 @@
+{
+  "name": "school-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js application for managing school-related data.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^5.13.7"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
