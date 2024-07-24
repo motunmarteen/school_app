@@ -5,8 +5,8 @@ A simple Node.js application for managing school-related data.
 ## Setup
 
 1. Clone the repository: 
-git clone ...
-cd my-school-app
+git clone (https://github.com/motunmarteen/school_app.git)
+cd school_app
 
 2. Install dependencies: npm install
 
